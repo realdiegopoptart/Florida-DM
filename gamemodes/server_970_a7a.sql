@@ -63,7 +63,7 @@ CREATE TABLE `fdm_accounts` (
 
 LOCK TABLES `fdm_accounts` WRITE;
 /*!40000 ALTER TABLE `fdm_accounts` DISABLE KEYS */;
-INSERT INTO `fdm_accounts` VALUES (66,'Ahmed','f71a1eff14938acd05baa4be54ff70383d693b90','102.156.9.150','0','None','','September 3, 2021 01:07:53',0,0,0,0,0,0,0,0,0,0,0,0,5,9992,'0','0',0,'0','0',0,0,0),(67,'glass_','4ab1108ce6284ad7e517314bb7290c48a3a97ef9','105.66.129.43','0','None','105.66.129.43','September 7, 2021 20:55:55',0,0,0,0,0,0,0,0,0,0,0,0,0,0,'0','0',0,'0','0',0,0,0),(68,'Loul','736f086b4c04fac97e6d221b457a518ea2aed2fe','197.1.11.201','0','None','','September 7, 2021 21:26:10',0,0,0,0,0,0,0,0,0,0,0,0,0,0,'0','0',0,'0','0',0,0,0);
+INSERT INTO `fdm_accounts` VALUES (66,'Ahmed','CHANGEME!!!!','102.156.9.150','0','None','','September 3, 2021 01:07:53',0,0,0,0,0,0,0,0,0,0,0,0,5,9992,'0','0',0,'0','0',0,0,0),(67,'glass_','4ab1108ce6284ad7e517314bb7290c48a3a97ef9','105.66.129.43','0','None','105.66.129.43','September 7, 2021 20:55:55',0,0,0,0,0,0,0,0,0,0,0,0,0,0,'0','0',0,'0','0',0,0,0),(68,'Loul','736f086b4c04fac97e6d221b457a518ea2aed2fe','197.1.11.201','0','None','','September 7, 2021 21:26:10',0,0,0,0,0,0,0,0,0,0,0,0,0,0,'0','0',0,'0','0',0,0,0);
 /*!40000 ALTER TABLE `fdm_accounts` ENABLE KEYS */;
 UNLOCK TABLES;
 

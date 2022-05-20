@@ -28,13 +28,6 @@ new MySQL:ourConnection;
 
 #define SQL_HOSTNAME  "127.0.0.1"
 
-/*
-#define SQL_DATABASE  "server_970_a7a"
-#define SQL_USERNAME  "server_970"
-#define SQL_PASSWORD  "l0pma281rx"
-*/
-
-
 #define SQL_DATABASE  "fdm"
 #define SQL_USERNAME  "root"
 #define SQL_PASSWORD  ""
